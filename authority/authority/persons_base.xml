@@ -2016,32 +2016,34 @@
 					<idno type="VIAF">7056031</idno>
 					<idno type="BnF">16181374</idno>
 				</person>
-				
+
 				<person>
 					<persName type="standard" xml:lang="fr">Cavaignac, Eugène</persName>
 					<persName type="display" xml:lang="fr">Eugène Cavaignac</persName>
 					<idno type="VIAF">27163145</idno>
 				</person>
-				
+
 				<person>
-					<persName type="standard" xml:lang="fr">Lalande de Calan, Hyacinthe Marie de</persName>
-					<persName type="display" xml:lang="fr">Hyacinthe Marie de Lalande de Calan</persName>
+					<persName type="standard" xml:lang="fr">Lalande de Calan, Hyacinthe Marie
+						de</persName>
+					<persName type="display" xml:lang="fr">Hyacinthe Marie de Lalande de
+						Calan</persName>
 					<note>Governor of Pondicherry, 1849</note>
 				</person>
-				
+
 				<person>
 					<persName type="standard" xml:lang="fr">Le Peltier, F.</persName>
 					<persName type="display" xml:lang="fr">F. Le Peltier</persName>
 					<note>Government officer, Pondicherry, 1849</note>
 				</person>
-				
+
 				<person>
 					<persName type="standard" xml:lang="sa">Nārāyaṇasuvāmi</persName>
 					<persName type="display" xml:lang="sa">Nārāyaṇasuvāmi</persName>
 					<persName type="variant" xml:lang="ta">Nārāyaṇacāmi</persName>
 					<note>Translator for the Government of Pondicherry, 1849.</note>
 				</person>
-				
+
 			</listPerson>
 		</body>
 	</text>
